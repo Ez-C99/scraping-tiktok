@@ -1,0 +1,9 @@
+aiohttp
+asyncio
+dotenv
+logging
+os
+pandas
+TikTokApi
+time
+urllib.parse
